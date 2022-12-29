@@ -1,6 +1,6 @@
 # first-page-loyout
 
-This app is responsive. Sliders and pop-ups have been integrated into the site.
+This site supports desktop version. Sliders and pop-ups have been integrated into the site.
 
 ### [Site link](https://celadon-dango-d76f32.netlify.app/)
 
